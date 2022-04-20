@@ -1,0 +1,2 @@
+S:\steamworks_sdk_151\sdk\steamworksexample\Debug\SteamworksExample.exe
+S:\steamworks_sdk_151\sdk\steamworksexample\Debug\SteamworksExample.pdb

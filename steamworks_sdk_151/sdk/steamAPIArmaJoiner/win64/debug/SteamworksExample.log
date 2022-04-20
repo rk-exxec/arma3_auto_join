@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: Die Eigenschaft "IntermediateOutputPath" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" verwendet.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: Die Eigenschaft "CleanFile" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" verwendet.
+cl : befehlszeile warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  voicechat.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  stdafx.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  p2pauth.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  musicplayer.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  htmlsurface.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  gameenginewin32.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  connectingmenu.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  clanchatroom.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  VectorEntity.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Sun.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  StatsAndAchievements.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  StarField.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  SpaceWarServer.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  SpaceWarEntity.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  SpaceWarClient.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Ship.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  ServerBrowser.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  RemoteStorage.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  RemotePlay.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  QuitMenu.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Code wird generiert...
+  Kompilieren...
+  PhotonBeam.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  MainMenu.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Main.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Lobby.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Leaderboards.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Inventory.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Friends.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  BaseMenu.cpp
+S:\steamworks_sdk_151\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  Code wird generiert...

@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: Die Eigenschaft "IntermediateOutputPath" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" verwendet.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: Die Eigenschaft "CleanFile" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" verwendet.
+cl : befehlszeile warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  voicechat.cpp
+  stdafx.cpp
+  p2pauth.cpp
+  musicplayer.cpp
+  htmlsurface.cpp
+  gameenginewin32.cpp
+  connectingmenu.cpp
+  clanchatroom.cpp
+  VectorEntity.cpp
+  Sun.cpp
+  StatsAndAchievements.cpp
+  StarField.cpp
+  SpaceWarServer.cpp
+  SpaceWarEntity.cpp
+  SpaceWarClient.cpp
+  Ship.cpp
+  ServerBrowser.cpp
+  RemoteStorage.cpp
+  RemotePlay.cpp
+  QuitMenu.cpp
+  Code wird generiert...
+  Kompilieren...
+  PhotonBeam.cpp
+  MainMenu.cpp
+  Main.cpp
+  Lobby.cpp
+  Leaderboards.cpp
+  Inventory.cpp
+  Friends.cpp
+  BaseMenu.cpp
+  Code wird generiert...
+BaseMenu.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /SAFESEH ignoriert.
+  SteamworksExample.vcxproj -> S:\steamworks_sdk_151\sdk\steamworksexample\Debug\SteamworksExample.exe
+          1 Datei(en) kopiert.
+          1 Datei(en) kopiert.

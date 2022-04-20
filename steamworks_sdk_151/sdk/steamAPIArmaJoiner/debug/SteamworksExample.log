@@ -1,0 +1,9 @@
+﻿cl : befehlszeile warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  stdafx.cpp
+  ServerBrowser.cpp
+  Main.cpp
+  Code wird generiert...
+Main.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /SAFESEH ignoriert.
+  SteamworksExample.vcxproj -> S:\steamworks_sdk_151\sdk\steamAPIArmaJoiner\Debug\SteamworksExample.exe
+          1 Datei(en) kopiert.
+          1 Datei(en) kopiert.
