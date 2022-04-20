@@ -75,7 +75,7 @@ public:
 private:
 
 	// Pointer to engine instance (so we can draw stuff)
-	IGameEngine *m_pGameEngine;
+	//IGameEngine *m_pGameEngine;
 
 	// Track the number of servers we know about
 	int m_nServers;
@@ -87,7 +87,7 @@ private:
 	HServerListRequest m_hServerListRequest;
 
 	// Menu object
-	CServerBrowserMenu *m_pMenu;
+	//CServerBrowserMenu *m_pMenu;
 
 	// List of game servers
 	std::list< CGameServer > m_ListGameServers; 
